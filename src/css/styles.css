@@ -1,0 +1,121 @@
+*  {
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: 'Sriracha', cursive;
+  height: 100%;
+}
+.headnav {
+    display: flex;
+    height: 70px;
+    background-color: #cc240e;
+}
+.headnav img {
+    margin: 15px 10px;
+    text-align: right;
+    position: relative;
+    z-index: 10;
+    width: 37px;
+    height: 37px;
+    background-color: #010703;
+    border-radius: 7%;
+}
+.hamburgerBtn {
+  outline: none;
+}
+h1 {
+    margin-left: 25%;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 2em;
+    letter-spacing: 1.2px;
+    padding-top: 10px;
+    outline: none;
+}
+.sidenav {
+    height: 100%;
+    background-color: #ecf38e;
+    z-index: 1;
+    position: absolute;
+    width: 35%;
+    text-align: center;
+    overflow-y: scroll;
+}
+h2 {
+    color: #cc240e;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+}
+input {
+    width: 280px;
+    font-size: 1.3em;
+    border-radius: 9px;
+    outline: none;
+}
+li {
+    display: inline;
+    list-style: none;
+    margin-left: 1px;
+  }
+  .powered {
+    color: #cc240e;
+    font-weight: 400;
+    letter-spacing: 1.2px;
+  }
+  img {
+    width: 20px;
+    height: 20px;
+  }
+  .helpers {
+    text-align: center;
+    padding-top: 5px;
+  }
+#map {
+    min-height: 100vh;
+   }
+h3 {
+  cursor: pointer;
+  outline: none;
+}
+.sidenav ul li {
+  line-height: 1;
+
+}
+
+@media screen and (max-width: 800px) {
+  input {
+    width: 200px;
+    font-size: 1em;
+  }
+}
+@media screen and (max-width: 570px) {
+  .sidenav {
+    width: 50%;
+  }
+  h1 {
+    margin-left: 5%;
+    font-size: 1.5em;
+  }
+   h2 {
+    font-size: 1.3em;
+  }
+}
+@media screen and (max-width: 570px) {
+  .sidenav {
+    width: 60%;
+  }
+  h1 {
+    margin-left: 5%;
+    font-size: 1.3em;
+  }
+   h2 {
+    font-size: 1em;
+  }
+}
+@media screen and (max-width: 570px) {
+  .sidenav {
+    width: 70%;
+  }
+}
