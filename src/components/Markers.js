@@ -11,7 +11,7 @@ addIcons = (locations) => {
         for (let i = 0; i < locations.length; i++) {
             const point = marker;
             let icon = new window.google.maps.Marker({
-                animation: window.google.maps.Animation.DROP,
+                animation: null,
                 position: {
                     lat: locations[i].venue.location.lat,
                     lng: locations[i].venue.location.lng
