@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2020-coffee-map/static/css/main.50210a22.chunk.css",
+    "main.js": "/2020-coffee-map/static/js/main.2f6f0c04.chunk.js",
+    "main.js.map": "/2020-coffee-map/static/js/main.2f6f0c04.chunk.js.map",
+    "runtime-main.js": "/2020-coffee-map/static/js/runtime-main.3d111044.js",
+    "runtime-main.js.map": "/2020-coffee-map/static/js/runtime-main.3d111044.js.map",
+    "static/js/2.3718fcf3.chunk.js": "/2020-coffee-map/static/js/2.3718fcf3.chunk.js",
+    "static/js/2.3718fcf3.chunk.js.map": "/2020-coffee-map/static/js/2.3718fcf3.chunk.js.map",
+    "index.html": "/2020-coffee-map/index.html",
+    "precache-manifest.06495fb5f17000eb9640f377f9414e2e.js": "/2020-coffee-map/precache-manifest.06495fb5f17000eb9640f377f9414e2e.js",
+    "service-worker.js": "/2020-coffee-map/service-worker.js",
+    "static/css/main.50210a22.chunk.css.map": "/2020-coffee-map/static/css/main.50210a22.chunk.css.map",
+    "static/js/2.3718fcf3.chunk.js.LICENSE.txt": "/2020-coffee-map/static/js/2.3718fcf3.chunk.js.LICENSE.txt",
+    "static/media/udacity.png": "/2020-coffee-map/static/media/udacity.8f75779a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d111044.js",
+    "static/js/2.3718fcf3.chunk.js",
+    "static/css/main.50210a22.chunk.css",
+    "static/js/main.2f6f0c04.chunk.js"
+  ]
+}
