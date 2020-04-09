@@ -23,6 +23,9 @@ coffee places wich are also displayed below the search area.
     - Navigate to the directory where the app was cloned
     - Type `npm install` or `yarn` to install the dependencies
     - Start the app-serving with `npm start` or `yarn start` at the default port 3000
+
+* Preview the project [online](https://valermuresan.github.io/2020-coffee-map/).
+
  
 
 ## Dependencies
